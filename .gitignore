@@ -1,0 +1,121 @@
+# Compiled Object Files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# .NET specific
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+*.userprefs
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+nuget.config
+
+# dotCover coverage
+.dotCover/
+coverage/
+
+# OpenCover coverage
+opencoverage/
+coverage.opencover.xml
+
+# Coverlet coverage
+coverage.json
+.coverage
+.coveragexml
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Build logs and temporary files
+logs/
+tmp/
+temp/
+*.log
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Visual Studio Debug Folder
+.vscode/
+launch.json
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+[Bb]in/
+[Oo]bj/
+
+# Installers
+*.exe
+*.msi
+*.msix
+*.msz
+*.msp
+*.msi
+
+# Misc
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+*.swo
+*~
+.env
+.env.local
+appsettings.Development.json
+appsettings.Production.json
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vscode
+.idea
+*.sublime-workspace
+*.sublime-project
+.vim/
+
+# OS
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
